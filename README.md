@@ -1,3 +1,3 @@
-# Post
+# This is a blog.
 
-[enter](https://github.com/onechao/post/issues)
+[Enter](https://github.com/onechao/post/issues)
