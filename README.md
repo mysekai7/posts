@@ -1,3 +1,3 @@
-# This is a blog.
+# MyPost
 
 [Enter](https://github.com/onechao/post/issues)
