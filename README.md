@@ -1,3 +1,3 @@
-# MyPost
+# 这是一个博客
 
-[Enter](https://github.com/onechao/post/issues)
+[点击进入](https://github.com/onechao/post/issues)
